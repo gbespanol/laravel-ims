@@ -4,7 +4,7 @@
     <head>
 
         <meta charset="utf-8" />
-        <title>Login | Admin</title>
+        <title>Welcome</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
         <meta content="Themesdesign" name="author" />
@@ -37,7 +37,7 @@
                         </div>
 
 
-                        <h4 class="text-muted text-center font-size-18"><b>Inventory Management System</b></h4>
+                        <h4 class="text-muted text-center font-size-18"><b>Document Updating System</b></h4>
                         {{-- <div class="p-3">
                             <form class="form-horizontal mt-3" method="POST" action="{{ route('login') }}">
                                     @csrf
