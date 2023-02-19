@@ -17,7 +17,7 @@
         <div id="sidebar-menu">
             <!-- Left Menu Start -->
             <ul class="metismenu list-unstyled" id="side-menu">
-                <li class="menu-title">Menu</li>
+                <li class="menu-title">UPCEB-IMS</li>
 
                 <li>
                     <a href="index.html" class="waves-effect">
