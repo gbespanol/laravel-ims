@@ -33,6 +33,7 @@ Route::middleware('auth')->group(function () {
 //Admin All Route
 Route::controller(AdminController::class)->group(function(){
     Route::get('/admin/logout', 'destroy')->name('admin.logout');
+    Route::get('/admin/profile', 'Profile')->name('admin.profile');
 });
 
 require __DIR__.'/auth.php';
