@@ -9,10 +9,9 @@
             <div class="col-12">
                 <div class="card">
                     <div class="card-body">
+                        <h4 class="card-title">Edit Profile Page</h4>
                         <form method="post" action="{{ route('store.profile') }}" enctype="multipart/form-data">
                             @csrf
-
-                            <h4 class="card-title">Edit Profile Page</h4>
                             <div class="row mb-3">
                                 <label for="example-text-input" class="col-sm-2 col-form-label">Name</label>
                                 <div class="col-sm-10">
